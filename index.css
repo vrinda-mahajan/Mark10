@@ -15,6 +15,7 @@ body {
   display: block;
   font-size: large;
   font-weight: 600;
+  padding: 1rem;
 }
 
 .input {
@@ -27,7 +28,7 @@ body {
   width: 100%;
   max-width: 258px;
 }
-#check {
+button {
   background: var(--primary-color);
   border: none;
   color: #fff;
